@@ -1,0 +1,113 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: black;
+}
+
+main{
+    background-color: darkslategrey;
+    margin: auto;
+    min-width: 320px;
+    max-width: 1000px;
+    padding: 20px;
+    box-shadow: 0px 0px 5px rgb(44, 80, 66);
+    border-radius: 10px;
+    width: 30%;
+    margin-top: 150px;
+    
+    
+}
+
+img{
+margin: auto;
+display: block;
+max-width: 40%;
+min-width: 35%;
+width: 100%;
+}
+
+h1{
+ font-size: 24px;
+ text-align: center;
+ padding-top: 10px;
+ color: white;
+ font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.principal{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: greenyellow;
+    text-align: center;
+    padding-top: 20px;
+}
+
+p{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    text-align: center;
+    padding-bottom: 20px;
+    width: 100%;
+}
+
+a{
+    display: block;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+    
+    
+   
+}
+
+.Git{
+    background-color: rgba(62, 212, 212, 0.445);
+    border-radius: 5px;
+    width: 150px;
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+.Front{
+    background-color: rgba(62, 212, 212, 0.445);
+    border-radius: 5px;
+    width: 150px;
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+.Lin{
+    background-color: rgba(62, 212, 212, 0.445);
+    border-radius: 5px;
+    width: 150px;
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+.Twitter{
+    background-color: rgba(62, 212, 212, 0.445);
+    border-radius: 5px;
+    width: 150px;
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+.Instagram{
+    background-color: rgba(62, 212, 212, 0.445);
+    border-radius: 5px;
+    width: 150px;
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+a:active{
+    color:springgreen;
+}
